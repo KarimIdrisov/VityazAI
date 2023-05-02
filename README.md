@@ -1,0 +1,2 @@
+# VityazAI
+AI Career helper
